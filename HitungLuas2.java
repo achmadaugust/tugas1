@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class HitungLuas2 {
+class HitungLuas2{
 	public static int cariLuasPersegiPanjang (int panjang, int lebar){
 		return panjang*lebar;
 	}
